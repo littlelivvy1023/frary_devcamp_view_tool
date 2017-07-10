@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FraryDevcampViewTool::Renderer.copyright 'Olivia Frary', 'All rights reserved'
+```
 
 ## Development
 
